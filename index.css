@@ -1,0 +1,47 @@
+header {
+  background-color: #F7DCDB;
+  height: 5em;
+  margin: auto;
+  padding: 2em;
+  }
+  
+body {
+  background-color: #f9f9f9;
+  }
+
+h1 {
+  color: #d9534f;
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-size: 13px;
+  font-family: 'Noto Serif JP', serif;
+}
+
+.column {
+  columns: 2;
+  column-gap: 2rem;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-left: 300px;
+  padding-right: 250px;
+}
+  
+  #zelda_square {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+#zelda_circle {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
